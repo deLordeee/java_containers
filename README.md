@@ -20,7 +20,7 @@ Make sure the following tools are installed:
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/deLordeee/java_containers.git
 cd your-repo
 ```
 
